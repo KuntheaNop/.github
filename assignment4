@@ -1,0 +1,30 @@
+<!-- moviecss1.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        
+    body {
+  background-color: yellow;
+  color: green;
+}
+</style> 
+<title>My Favorite Movie</title>
+<link href="format2.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1>Looking for Alaska</h1>
+    <p>This movie is about self finding and their lives purpose of young teenager at baording school.</p> 
+    <h2>Main Actors and Actresses:</h2>
+    <ul>
+      <li>Actor1: Miles</li>
+      <li>Actress1: Alaska</li>
+      <li>Actor2: Colonel</li>
+      <li>Actress2: Lara</li>
+    </ul>
+    <a href="https://www.imdb.com/title/tt3829868/">Website about the movie</a>
+<br>
+    <a href="mailto:2023299nop@aupp.edu.kh">Contact Me</a>
+</br>
+  </body>
+  </html>
